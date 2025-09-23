@@ -16,3 +16,7 @@ normal = { family = "Intel One Mono", style = "Regular" }
 
 background = "#74b0bc"
 foreground = "#eaf1f2"
+
+[colors.normal]
+
+blue = "#6193e2"
