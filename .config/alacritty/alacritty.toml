@@ -1,0 +1,11 @@
+# Window settings
+
+[window]
+
+opacity = 0.6
+
+# Font config, because Intel One Mono is GOAT
+
+[font]
+
+normal = { family = "Intel One Mono", style = "Regular" }
